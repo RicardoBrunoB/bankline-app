@@ -10,6 +10,7 @@ import { MovimentacaoNewComponent } from './components/movimentacao-new/moviment
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
+import { CurrencyMaskModule } from "ng2-currency-mask";
 
 registerLocaleData(localePt);
 
@@ -24,7 +25,8 @@ registerLocaleData(localePt);
     AppRoutingModule,
     NgbModule,
     FormsModule,
-    HttpClientModule
+    HttpClientModule,
+    CurrencyMaskModule
   ],
   providers: [{provide: LOCALE_ID, useValue: 'pt-BR'}],  bootstrap: [AppComponent]
 })
