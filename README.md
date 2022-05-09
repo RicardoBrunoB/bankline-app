@@ -1,3 +1,6 @@
+# Santander Dev Week
+Trata-se de uma semana imersiva do Santander em parceria com a Digital Innovation One, a qual aborda assuntos sobre Full-Stack e Mobile, tecnologias como Java, SwaggerUI, PostgreSQL, Angular e Kotlin, mentorias diárias com profissionais do Santander e da DIO, contando como desenvolver sua carreira e a cultura empregada no Santander.
+
 # BanklineApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
