@@ -2,6 +2,21 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
+Developed at the Santander Dev Week, it basically works with statements and bank transactions, listing the bank account holders and their respective transactions. 
+
+### Main Page
+![Web 1](https://github.com/RicardoBrunoB/assets/blob/master/Bankline/Bankline-1b.png)
+
+### Transactions of a bank account holder
+![Bank account holder transactions](https://github.com/RicardoBrunoB/assets/blob/master/Bankline/Bankline-1c.png)
+
+### Creating a new transaction
+![Creating new transaction](https://github.com/RicardoBrunoB/assets/blob/master/Bankline/Bankline-2.jpg)
+
+### Bank account holders list
+![Web bank account holders list](https://github.com/RicardoBrunoB/assets/blob/master/Bankline/Bankline-1d.png)
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
