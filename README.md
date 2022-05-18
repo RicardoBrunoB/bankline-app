@@ -1,5 +1,7 @@
 # Santander Dev Week
-Trata-se de uma semana imersiva do Santander em parceria com a Digital Innovation One, a qual aborda assuntos sobre Full-Stack e Mobile, tecnologias como Java, Maven, Spring Boot, Hibernate, SwaggerUI, PostgreSQL, Angular e Kotlin, mentorias diárias com profissionais do Santander e da DIO, contando como desenvolver sua carreira e a cultura empregada no Santander.
+This project is about the Santander Dev's Week feat. Digital Innovation One, that includes about Full-Stack and Mobile, technologies like Java, Maven, Spring Boot, Hibernate, SwaggerUI, PostgreSQL, Angular and Kotlin, daily mentoring with Santander's and DIO's professionals, telling how to develop your carreer and the culture applied on Santander.
+//
+Trata-se de uma semana imersiva do Santander em parceria com a Digital Innovation One, a qual aborda sobre Full-Stack e Mobile, tecnologias como Java, Maven, Spring Boot, Hibernate, SwaggerUI, PostgreSQL, Angular e Kotlin, mentorias diárias com profissionais do Santander e da DIO, contando como desenvolver sua carreira e a cultura empregada no Santander.
 
 # BanklineApp
 
